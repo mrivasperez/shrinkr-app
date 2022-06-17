@@ -14,7 +14,7 @@
   "author": "Miguel Rivas Perez",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^11.5.0",
+    "electron": "^15.5.5",
     "electron-packager": "^15.0.0",
     "nodemon": "^2.0.4"
   },
